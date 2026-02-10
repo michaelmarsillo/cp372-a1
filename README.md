@@ -2,6 +2,9 @@
 
 This is our implementation of a client-server bulletin board system for CP372. The server handles multiple clients connecting over TCP and manages a shared board where clients can post notes, pin them, and query the board state.
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
 ## Project structure
 
 ```
