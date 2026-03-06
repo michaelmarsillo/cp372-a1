@@ -128,4 +128,7 @@ We tested all the error cases:
 
 - [Michael Marsillo](https://github.com/michaelmarsillo) - worked on server implementation
 - [Gurshan Sidhar](https://github.com/GurshanSidhar7) - worked on client GUI
-- Both of us - RFC design, testing, debugging
+- Both of us - RFC design, testing, debugging, video
+
+## Video
+*[Video Demonstration](https://youtu.be/f9M6gTQxksw?si=npmW_pR242yk2EQT)*
